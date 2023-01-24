@@ -1,1 +1,1 @@
-# ML-Image-Recogniiton-Model
+# ML-Image-Recogniton-Model
